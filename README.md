@@ -185,6 +185,7 @@ See [docs/kilocode.md](docs/kilocode.md) for detailed Kilo Code integration guid
 
 | Fork | Author | Features |
 |------|--------|----------|
+| [devis](https://github.com/st01cs/devis) | [@st01cs](https://github.com/st01cs) | Interview-first workflow, `/devis:intv` and `/devis:impl` commands, guaranteed activation |
 | [multi-manus-planning](https://github.com/kmichels/multi-manus-planning) | [@kmichels](https://github.com/kmichels) | Multi-project support, SessionStart git sync |
 
 *Built something? Open an issue to get listed!*
